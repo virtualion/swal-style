@@ -1,0 +1,10 @@
+#swal-demo {
+  width: 100%; !important;
+  height: 600px;
+}
+
+.swal-wide{
+    width:85% !important;
+    height:100% !important;
+}
+
